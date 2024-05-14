@@ -1,0 +1,4 @@
+channechannels:
+  - conda-forge
+dependencies:
+  - pip
